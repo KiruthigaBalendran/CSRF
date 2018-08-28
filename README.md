@@ -20,3 +20,5 @@ Synchronizer Token Pattern and Double Submit Cookies Pattern are the mechanisms 
 3.	When the server is up, the localhost will open up in the browser.
 4.	If not, access from http://localhost:8080/SynchronizerTokenPattern and http://localhost:8080/DoubleSubmitCookiesPattern
 5.	The username and password for the login are admin
+
+Refer http://kirudevlab.blogspot.com/2018/08/Security-Protection-Mechanisms-to-Safeguard-Web-Applications.html for more information
