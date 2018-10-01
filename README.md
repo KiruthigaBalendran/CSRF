@@ -1,4 +1,4 @@
-# Security Protection Mechanisms to Safeguard Web Applications
+﻿# Security Protection Mechanisms to Safeguard Web Applications
 
 Cross-Site Request Forgery (CSRF) is an attack that occurs in the user’s web browser where a mail, a malicious URL or an instant messaging performs an unwanted action in which the user is currently authenticated. This attack happens without the user’s consent so that the attacker can carry out the unauthorized transaction.
 Synchronizer Token Pattern and Double Submit Cookies Pattern are the mechanisms that used to prevent against CSRF. These two methods are implemented here.  
@@ -21,4 +21,4 @@ Synchronizer Token Pattern and Double Submit Cookies Pattern are the mechanisms 
 4.	If not, access from http://localhost:8080/SynchronizerTokenPattern and http://localhost:8080/DoubleSubmitCookiesPattern
 5.	The username and password for the login are admin
 
-Refer http://kirudevlab.blogspot.com/2018/08/Security-Protection-Mechanisms-to-Safeguard-Web-Applications.html for more information
+Refer the blog for more information
