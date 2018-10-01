@@ -21,4 +21,3 @@ Synchronizer Token Pattern and Double Submit Cookies Pattern are the mechanisms 
 4.	If not, access from http://localhost:8080/SynchronizerTokenPattern and http://localhost:8080/DoubleSubmitCookiesPattern
 5.	The username and password for the login are admin
 
-Refer the blog for more information
